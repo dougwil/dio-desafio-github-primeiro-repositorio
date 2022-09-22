@@ -1,0 +1,3 @@
+Aula 21_09_2022:
+Principais comandos no Git Bash.
+Como resolver conflitos.
