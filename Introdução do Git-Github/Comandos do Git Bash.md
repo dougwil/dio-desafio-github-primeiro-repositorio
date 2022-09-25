@@ -29,3 +29,9 @@
 > **Configurar nome do usuário**: `git config --global user.name "Nome do usuário"`
 
 > **Monitorar status dos arquivos**: `git status`
+
+> **Adicionar a origem remota**: `git remote add origin URL do repositório do GitHub`
+>
+> **Listar o repositório de origem remota**: `git remote -v`
+>
+> **Empurrar arquivos para a pasta remota no GitHub**: `git push origin master`
