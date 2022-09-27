@@ -5,3 +5,4 @@
 ##### 26/09/2022:
 
 - Aula 1. Conceituação e criação;
+- Aula 2. Tipos de dados
