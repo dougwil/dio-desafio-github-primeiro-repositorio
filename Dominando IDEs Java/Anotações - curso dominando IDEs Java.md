@@ -21,17 +21,21 @@
     4. `Ctrl + Shift + c`- comenta um bloco;
     5. `Ctrl + d`- apaga linha.
     
-
 - Aula 5. IntelliJ: :bulb:
 
   - Alguns atalhos:   
 
     1. `Alt + Insert` - abre as opções;
-
     2. `sout`- System.out.println();
     3. `Ctrl + Shift + F10`- executa o programa;
     4. `Ctrl + Shift + /`- comenta um bloco;
     5. `Ctrl + /`- comenta um bloco, linha por linha;
     6. `Alt + Enter`- importa classe;
     7. `Ctrl + Alt + o`- apaga as classes não usadas;
-    8. `Ctrl + y`- apaga linha.
+    8. `Ctrl + y`- apaga linha;
+    9. `Ctrl + d`- duplica linha;
+    10. `Shift + F`- refatora para alterar o nome do pacote;
+    11. `Ctrl + Alt + l`- organiza a endentação;
+    12. `Ctrl + Shift + seta para cima ou seta para baixo` - movimenta a linha.
+
+Mais atalhos podem ser consultados nos sites: [](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea) ou [](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
