@@ -38,4 +38,4 @@
     11. `Ctrl + Alt + l`- organiza a endentação;
     12. `Ctrl + Shift + seta para cima ou seta para baixo` - movimenta a linha.
 
-Mais atalhos podem ser consultados nos sites: [](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea) ou [](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+Mais atalhos podem ser consultados nos sites: [(http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)] ou [(https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)]
