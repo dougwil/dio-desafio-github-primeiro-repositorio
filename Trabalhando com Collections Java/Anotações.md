@@ -21,3 +21,9 @@
 ##### 11/10/2022
 
 - Aula 4. Map
+
+##### 12/10/2022
+
+- Aula 5. Stream
+
+** Refazer o curso com mais calma e realizando os exercícios.
