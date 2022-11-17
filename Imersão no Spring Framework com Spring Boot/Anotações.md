@@ -5,3 +5,6 @@
 ##### 16/11/22
 
 - Aula 1. Apresentação inicial
+- Aula 2. Projeto Springboot
+- Aula 3. Conclusão
+
